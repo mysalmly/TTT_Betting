@@ -8,5 +8,5 @@ Tic Tac Toe but with a twist!
 
 - Gear's ability to work with smart contracts and web3 applications helped us the most with this project. 
 
-Canvan Presentation: https://www.canva.com/design/DAFmGcinFaw/2JHdv_zq_m2UqVOMkt2udA/edit?utm_content=DAFmGcinFaw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Canva Presentation: https://www.canva.com/design/DAFmGcinFaw/2JHdv_zq_m2UqVOMkt2udA/edit?utm_content=DAFmGcinFaw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
