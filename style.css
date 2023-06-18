@@ -1,0 +1,83 @@
+/* Game board */
+.ui {
+    margin-top: 30px;
+    position: relative;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .cell {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* the actual website's design n all*/
+  body {
+    background-color: rgb(177, 208, 214); /* Set a solid background color */
+  }
+  
+  
+  h1 {
+    font-size: 36px;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Add text shadow */
+  }
+  
+  #ins {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0;
+  }
+  
+  /* Rest button */
+  #but {
+    background-color: #ff99cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  #but:hover {
+    background-color: #ff66a3;
+  }
+  
+  #print {
+    font-size: 18px;
+    font-weight: bold;
+    color: #666;
+    margin-top: 20px;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  
+  .cell {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffccff;
+    color: #fff;
+    cursor: pointer;
+    margin: 0 10px; /* extra spaces btwn the squares */
+  }
+  

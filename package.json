@@ -1,0 +1,16 @@
+{
+  "name": "tictactoefrontend-master",
+  "version": "1.0.0",
+  "description": "Someone write this later",
+  "main": "gamelogic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gear-js/api": "^0.31.2",
+    "@polkadot/api": "^10.9.1",
+    "@polkadot/extension-dapp": "^0.46.5"
+  }
+}
