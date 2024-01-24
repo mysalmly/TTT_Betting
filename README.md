@@ -10,5 +10,7 @@ Tic Tac Toe but with a twist!
 
 Canva Presentation: https://www.canva.com/design/DAFmGcinFaw/2JHdv_zq_m2UqVOMkt2udA/edit?utm_content=DAFmGcinFaw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+Credits to my teammates (Nova, Heather, Shankar, Maksat) for making this with me!
+
 (June 2023 hackathon submission)
 
